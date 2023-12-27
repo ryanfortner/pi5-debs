@@ -1,0 +1,9 @@
+version: 1.18.11
+files:
+  - url: balenaEtcher-1.18.11-arm64.AppImage
+    sha512: +gR0fAiJij1gatL7qVaaWA+w/LpohuLpEPhH+YYU13YsEiNv0I6Dy19FQyuI5hvjXajosbBRfubTGgYGtQdA7w==
+    size: 100995926
+    blockMapSize: 106146
+path: balenaEtcher-1.18.11-arm64.AppImage
+sha512: +gR0fAiJij1gatL7qVaaWA+w/LpohuLpEPhH+YYU13YsEiNv0I6Dy19FQyuI5hvjXajosbBRfubTGgYGtQdA7w==
+releaseDate: '2023-12-27T23:17:29.762Z'
